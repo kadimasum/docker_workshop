@@ -15,6 +15,7 @@
 
 # CMD ["python", "manage.py", "runserver","0.0.0.0:8000"]
 
+
 # Use a smaller base image
 FROM python:3.8.3-alpine
 
